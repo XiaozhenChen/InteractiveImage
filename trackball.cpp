@@ -77,7 +77,7 @@
 /* includes */
 #include <math.h>
 #include <assert.h>
-#include <glut.h>
+#include <gl/glut.h>
 #include <memory.h>
 #include "trackball.h"
 
